@@ -43,8 +43,8 @@ Aplikasi Pengelolaan Buku Sederhana adalah sebuah proyek untuk mengelola data bu
 ### Dashboard
 <img src="screenshoots/dashboard.png" alt="Dashboard" width="600">
 
-### Dashboard 2
-<img src="screenshoots/dashboard2.png" alt="Dashboard 2" width="600">
+<!-- ### Dashboard 2
+<img src="screenshoots/dashboard2.png" alt="Dashboard 2" width="600"> -->
 
 ### Detail Buku
 <img src="screenshoots/detailBuku.png" alt="Detail Buku" width="600">
