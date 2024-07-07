@@ -1,0 +1,18 @@
+.sidebar .nav-link {
+    color: #ffffff;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.sidebar .nav-link:hover {
+    background-color: #495057;
+    color: #ffffff;
+}
+/* 
+.sidebar .nav-link.active {
+    background-color: #343a40;
+    color: #ffffff;
+} */
+
+tr, td {
+    text-align:center;
+}
