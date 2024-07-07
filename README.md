@@ -1,6 +1,6 @@
 # Aplikasi Pengelolaan Buku Sederhana
 
-![Aplikasi Pengelolaan Buku](screenshoots/dashboard.png)
+<img src="screenshoots/dashboard.png" alt="Aplikasi Pengelolaan Buku" width="600">
 
 ## Tentang Aplikasi
 
@@ -33,28 +33,28 @@ Aplikasi Pengelolaan Buku Sederhana adalah sebuah proyek untuk mengelola data bu
 ## Screenshot
 
 ### Register
-![Register](screenshoots/registrasi.png)
+<img src="screenshoots/registrasi.png" alt="Register" width="600">
 
 ### Login
-![Login](screenshoots/login.png)
+<img src="screenshoots/login.png" alt="Login" width="600">
 
 ### Dashboard
-![Dashboard](screenshoots/dashboard.png)
+<img src="screenshoots/dashboard.png" alt="Dashboard" width="600">
 
 ### Dashboard 2
-![Dashboard 2](screenshoots/dashboard2.png)
+<img src="screenshoots/dashboard2.png" alt="Dashboard 2" width="600">
 
 ### Detail Buku
-![Detail Buku](screenshoots/detailBuku.png)
+<img src="screenshoots/detailBuku.png" alt="Detail Buku" width="600">
 
 ### Tambah Buku
-![Tambah Buku](screenshoots/tambahBuku.png)
+<img src="screenshoots/tambahBuku.png" alt="Tambah Buku" width="600">
 
 ### Edit Buku
-![Edit Buku](screenshoots/EditBuku.png)
+<img src="screenshoots/EditBuku.png" alt="Edit Buku" width="600">
 
 ### Kelola Kategori
-![Kelola Kategori](screenshoots/kelolaKategori.png)
+<img src="screenshoots/kelolaKategori.png" alt="Kelola Kategori" width="600">
 
 ## Kontak
 
