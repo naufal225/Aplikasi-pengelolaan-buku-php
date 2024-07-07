@@ -1,6 +1,6 @@
 # Aplikasi Pengelolaan Buku Sederhana
 
-![Aplikasi Pengelolaan Buku](https://via.placeholder.com/800x200.png?text=Aplikasi+Pengelolaan+Buku+Sederhana)
+![Aplikasi Pengelolaan Buku](screenshots/dashboard.png)
 
 ## Tentang Aplikasi
 
