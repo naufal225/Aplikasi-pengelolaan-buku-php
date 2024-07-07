@@ -58,7 +58,7 @@ Aplikasi Pengelolaan Buku Sederhana adalah sebuah proyek untuk mengelola data bu
 
 ## Kontak
 
-Untuk informasi lebih lanjut, kamu bisa menghubungi saya di Instagram: [@naufal225](https://www.instagram.com/naufal225/).
+Untuk informasi lebih lanjut, kamu bisa menghubungi saya di Instagram: [@naufal225](https://www.instagram.com/nma225__/).
 
 ---
 
