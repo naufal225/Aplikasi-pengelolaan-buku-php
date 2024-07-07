@@ -14,6 +14,7 @@ Aplikasi Pengelolaan Buku Sederhana adalah sebuah proyek untuk mengelola data bu
 
 ## Teknologi yang Digunakan
 - **PHP:** Untuk logika backend dan pengelolaan data.
+- **MYSQL:** Untuk pengelolaan database
 - **JavaScript:** Untuk interaksi dan manipulasi DOM.
 - **HTML:** Untuk struktur halaman.
 - **Bootstrap:** Untuk desain antarmuka yang responsif.
