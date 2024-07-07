@@ -28,7 +28,8 @@ Aplikasi Pengelolaan Buku Sederhana adalah sebuah proyek untuk mengelola data bu
     ```sh
     cd Aplikasi-pengelolaan-buku-php
     ```
-3. Jalankan server lokal (misalnya dengan menggunakan XAMPP atau MAMP) dan arahkan ke direktori proyek.
+3. Jangan lupa untuk mengimport database sql
+4. Jalankan server lokal (misalnya dengan menggunakan XAMPP atau MAMP) dan arahkan ke direktori proyek.
 
 ## Screenshot
 
