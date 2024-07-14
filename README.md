@@ -13,11 +13,11 @@ Aplikasi Pengelolaan Buku Sederhana adalah sebuah proyek untuk mengelola data bu
 - **Antarmuka Responsif:** Menggunakan Bootstrap untuk tampilan yang responsif di berbagai perangkat.
 
 ## Teknologi yang Digunakan
-- **PHP:** Untuk logika backend dan pengelolaan data.
-- **MYSQL:** Untuk pengelolaan database
-- **JavaScript:** Untuk interaksi dan manipulasi DOM.
-- **HTML:** Untuk struktur halaman.
-- **Bootstrap:** Untuk desain antarmuka yang responsif.
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## Cara Menggunakan
 
