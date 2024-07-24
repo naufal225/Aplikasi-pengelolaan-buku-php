@@ -25,8 +25,10 @@ if(isset($_GET['dashboard'])) {
     }
 }
 
+$queryy = "SELECT * FROM tbl_buku WHERE judul_buku LIKE '%$cari%' OR penulis LIKE '%$cari%' OR penerbit LIKE '%$cari%'";
+
 $jumlahDataPerhalaman = 12;
-$jumlahData = mysqli_num_rows(mysqli_query($conn,"SELECT * FROM tbl_buku WHERE judul_buku LIKE '%$cari%'"));
+$jumlahData = mysqli_num_rows(mysqli_query($conn, $queryy));
 $jumlahHalaman = ceil($jumlahData/$jumlahDataPerhalaman);
 $halamanAktif = isset($_GET['page']) ? $_GET['page'] : 1;
 
@@ -55,7 +57,7 @@ if($halamanAktif < $jumlahHalaman - $jumlahLink) {
 
 
 
-$buku = get("SELECT * FROM tbl_buku WHERE judul_buku LIKE '%$cari%' ORDER BY id DESC LIMIT $awalData, $jumlahDataPerhalaman");
+$buku = get("SELECT * FROM tbl_buku WHERE judul_buku LIKE '%$cari%' OR penulis LIKE '%$cari%' OR penerbit LIKE '%$cari%' ORDER BY id DESC LIMIT $awalData, $jumlahDataPerhalaman");
 
 ?>
 
